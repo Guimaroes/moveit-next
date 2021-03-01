@@ -1,16 +1,16 @@
 # Move.it
-Projeto realizado durante a NLW#04 da <a href="https://rocketseat.com.br">RocketSeat</a> - Trilha ReactJS
+Projeto realizado durante a NLW#04 da <a href="https://rocketseat.com.br" target="_blank">RocketSeat</a> - Trilha ReactJS
 
-O <a href="https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0/duplicate">Move.it</a> é um app destinado a pessoas que passam muito tempo no computador, unindo a Técnica de Pomodoro com exercícios.
+O <a href="https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0/duplicate" target="_blank">Move.it</a> é um app destinado a pessoas que passam muito tempo no computador, unindo a Técnica de Pomodoro com exercícios.
 
 O app também conta com um esquema de gamificação que recompensa o usuário quando um exercício é realizado.
 
 # Tecnologias
-- [React](https://pt-br.reactjs.org)
-- [Next.js](https://nextjs.org)
-- [TypeScript](https://www.typescriptlang.org)
-- [CSS Modules](https://github.com/css-modules/css-modules)
-- [Context API](https://pt-br.reactjs.org/docs/context.html)
+- <a href="https://pt-br.reactjs.org" target="_blank">React</a>
+- <a href="https://nextjs.org" target="_blank">Next.js</a>
+- <a href="https://www.typescriptlang.org" target="_blank">TypeScript</a>
+- <a href="https://github.com/css-modules/css-modules" target="_blank">CSS Modules</a>
+- <a href="https://pt-br.reactjs.org/docs/context.html" target="_blank">Context API</a>
 
 # Imagens
 
